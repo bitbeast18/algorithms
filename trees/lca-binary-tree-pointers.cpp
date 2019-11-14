@@ -1,6 +1,6 @@
 // Author : bitbeast18
 
-// Lowest Common Ancestor without Queries.
+// Lowest Common Ancestor in binary trees.
 // Complexity : O(N)
 
 struct Node {
